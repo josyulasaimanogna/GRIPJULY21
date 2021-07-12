@@ -1,3 +1,6 @@
+#This program proves that binary search takes less time than naive search.
+
+
 import random
 import time
 
